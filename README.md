@@ -7,7 +7,7 @@ This repository focuses on exploratory data analysis (EDA) to understand custome
 💡Tools & technologies used:
 
 1. Python IDE: Visual Studio Code, Libraries: Numpy, Seaborn, Pandas, Matplotlib
-2. Mysql IDE: PostgreSql
+2. Sql IDE: PostgreSql
 3. Visualising IDE: Power BI
  
 🎯Key objectives:
