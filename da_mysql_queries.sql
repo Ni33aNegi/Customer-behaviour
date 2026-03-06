@@ -106,3 +106,4 @@ FROM customers
 GROUP BY 1
 ORDER BY total_revenue DESC;
 
+
